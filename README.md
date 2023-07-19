@@ -5,9 +5,10 @@ I couldn't grasp.
 ### :computer: Developer experience
 
 - **[goinit](https://github.com/macie/goinit)** setups Go project with source code versioning.
+- **[shinit](https://github.com/macie/shinit)** setups Bourne shell project with source code versioning.
+- **[unittest.sh](https://github.com/macie/unittest.sh)** is a unit test framework for POSIX shell.
 - **[review.css](https://github.com/macie/review-css)** is a classless CSS framework for texts.
 - **[Smallstache](https://github.com/macie/smallstache)** is a logic-less JS template engine.
-- **[unittest.sh](https://github.com/macie/unittest.sh)** is a unit test framework for POSIX shell.
 
 ### :bee: IoT
 
