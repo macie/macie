@@ -4,6 +4,7 @@ I couldn't grasp.
 
 ### :computer: Developer experience
 
+- **[opinions](https://github.com/macie/opinions)** searches for comments on social news websites
 - **[goinit](https://github.com/macie/goinit)** setups Go project with source code versioning.
 - **[shinit](https://github.com/macie/shinit)** setups Bourne shell project with source code versioning.
 - **[unittest.sh](https://github.com/macie/unittest.sh)** is a unit test framework for POSIX shell.
