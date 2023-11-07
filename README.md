@@ -17,5 +17,5 @@ I couldn't grasp.
 
 ### :alembic: Experimental
 
-- **[example-coffeemaker](https://github.com/macie/example-coffeemaker)** is an sample refactoring of enterprise architecture system using DDD and `test && commit || revert`
+- **[example-coffeemaker](https://github.com/macie/example-coffeemaker)** is an sample system made with DDD and `test && commit || revert`
 - **[hreld](https://github.com/macie/hreld)** is an operator-stream DB based on relational algebra
