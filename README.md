@@ -17,5 +17,6 @@ I couldn't grasp.
 
 ### :alembic: Experimental
 
+- **[sortof](https://github.com/macie/sortof)** sorts list in non-standard way
 - **[example-coffeemaker](https://github.com/macie/example-coffeemaker)** is an sample system made with DDD and `test && commit || revert`
 - **[hreld](https://github.com/macie/hreld)** is an operator-stream DB based on relational algebra
