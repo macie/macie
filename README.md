@@ -4,6 +4,7 @@ I couldn't grasp.
 
 ### :computer: Developer experience
 
+- **[boludo](https://github.com/macie/boludo)** is a terminal personal AI assistant
 - **[opinions](https://github.com/macie/opinions)** searches for comments on social news websites
 - **[goinit](https://github.com/macie/goinit)** setups Go project with source code versioning
 - **[shinit](https://github.com/macie/shinit)** setups Bourne shell project with source code versioning
