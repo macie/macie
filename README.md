@@ -10,7 +10,7 @@ I couldn't grasp.
 - **[shinit](https://github.com/macie/shinit)** setups Bourne shell project with source code versioning
 - **[unittest.sh](https://github.com/macie/unittest.sh)** is a unit test framework for POSIX shell
 - **[review.css](https://github.com/macie/review-css)** is a classless CSS framework for texts
-- **[Smallstache](https://github.com/macie/smallstache)** is a logic-less JS template engine
+- **[Smallstache (JS)](https://github.com/macie/smallstache)** & **[Smallstache.sh](https://github.com/macie/smallstache.sh)** are logic-less template engines
 
 ### :bee: IoT
 
